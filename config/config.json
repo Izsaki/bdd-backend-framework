@@ -1,0 +1,5 @@
+{
+  "wsdlUrl" : "http://www.dneonline.com/calculator.asmx?WSDL",
+  "restBaseUrl": "https://api.agify.io/",
+  "frontendUrl": "https://example.com"
+}
